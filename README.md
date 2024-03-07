@@ -53,12 +53,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/blueberry4airy/blueberry4airy/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://www.instagram.com/frontdev_4airy_olga.gorincioi" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="35" alt="instagram logo"  />
