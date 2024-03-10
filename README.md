@@ -33,7 +33,7 @@
   <a href="https://www.instagram.com/frontdev_4airy_olga.gorincioi" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="35" alt="instagram logo" target="_blank" />
   </a>
-  <a href="www.linkedin.com/in/olgagorincioi" target="_blank">
+  <a href="https://www.linkedin.com/in/olgagorincioi" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="35" alt="linkedin logo"  target="_blank"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100004179046367" target="_blank">
