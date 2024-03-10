@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=blueberry4airy.blueberry4airy" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Lora&size=30&pause=1000&color=C664C3&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!+ 🖖🏻;+I'm+Olga+Gorincioi!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Lora&size=30&pause=500&color=C664C3&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!+🖖🏻;+I'm+Olga+Gorincioi!" />
 </h1>
 
 <h3 align="center">A front-end developer from Moldova in the making. </h3>
@@ -79,3 +79,10 @@
   <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blueberry4airy&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
   </div>
+
+  <br/><br/>
+<hr/>
+
+<h3 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Lora&size=25&color=C664C3&center=true&vCenter=true&width=500&height=70&&duration=4000&lines=Thanks+for+visiting!+🫰🏻;+Shoot+me+a+message!+:)" />
+</h3>
