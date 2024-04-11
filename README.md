@@ -19,7 +19,7 @@
   <br><br>🌱 I’m currently focused on learning React
   <br><br>⚡  Study: I finished the University in France with a Master's degree in LEA, quit everything  and here I am now finishing an online course in coding )
   <br><br>👯 My hobby: I overdose on reading manga. 
-  <br><br>🔭 I’m currently working on my website ...
+  <br><br>🔭 My website https://blueberry4airy.github.io/dev-portfolio-website/
 </div>
 
 ###
